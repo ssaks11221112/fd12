@@ -31,7 +31,6 @@ Tab:AddLabel("此脚本为官方版")
 Tab:AddLabel("此脚本完全免费禁止倒卖")
 Tab:AddLabel("Q群1 : 834856433")
 Tab:AddLabel("Q群2 : 834856433")
-Tab:AddLabel("Q群3 : 834856433")
 Tab:AddLabel("DC群组 : https://discord.gg/KxZX9pP6vh")
 
 local Tab = Window:MakeTab({
