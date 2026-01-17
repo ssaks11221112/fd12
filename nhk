@@ -29,7 +29,7 @@ local Tab = Window:MakeTab({
 Tab:AddParagraph("作者","猫冬")
 Tab:AddLabel("此脚本为官方版")
 Tab:AddLabel("此脚本完全免费禁止倒卖")
-Tab:AddParagraph("通知","如果遇到圈钱行为，请联系管理员此脚本为完全免费不含任何收费如果有收费行为联系管理员或作者进行举报作者QQ 56267255")
+Tab:AddLabel("如果遇到圈钱行为，请联系管理员此脚本为完全免费不含任何收费如果有收费行为联系管理员或作者进行举报作者QQ 56267255")
 Tab:AddLabel("Q群1 : 834856433")
 Tab:AddLabel("Q群2 : 834856433")
 Tab:AddLabel("DC群组 : https://discord.gg/KxZX9pP6vh")
