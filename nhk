@@ -18,7 +18,7 @@ local Sound = Instance.new("Sound")
     Sound.Ended:Wait()
     Sound:Destroy()
 
-local Window = OrionLib:MakeWindow({Name = "脚本中心", HidePremium = false, SaveConfig = false, IntroText = "脚本中心", ConfigFolder = "脚本中心"})
+local Window = OrionLib:MakeWindow({Name = "猫冬脚本中心", HidePremium = false, SaveConfig = false, IntroText = "脚本中心", ConfigFolder = "脚本中心"})
 
 local Tab = Window:MakeTab({
     Name = "公告",
@@ -27,9 +27,11 @@ local Tab = Window:MakeTab({
 })
 
 Tab:AddParagraph("作者","猫冬")
-Tab:AddLabel("此脚本为缝合")
+Tab:AddLabel("此脚本为官方版")
 Tab:AddLabel("此脚本完全免费禁止倒卖")
-Tab:AddLabel("QQ群 : 834856433")
+Tab:AddLabel("Q群1 : 834856433")
+Tab:AddLabel("Q群2 : 834856433")
+Tab:AddLabel("Q群3 : 834856433")
 Tab:AddLabel("DC群组 : https://discord.gg/KxZX9pP6vh")
 
 local Tab = Window:MakeTab({
